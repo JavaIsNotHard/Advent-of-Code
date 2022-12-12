@@ -44,7 +44,6 @@ void partOne(std::vector<std::string>& calorie) {
 }
 
 void partTwo(std::vector<std::string>& calorie) {
-    std::array<int, 3> topThree {};
     int max1 {};
     int max2 {};
     int max3 {};
