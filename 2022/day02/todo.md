@@ -1,0 +1,3 @@
+- rock -> 1, paper -> 2, scissor -> 3
+- win -> 6, draw -> 3, loss -> 0
+- 
